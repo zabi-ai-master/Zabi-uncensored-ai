@@ -6,7 +6,8 @@ OPENROUTER_API_KEY = "sk-or-v1-43dbe6a8f4439ab1134d58abb5489b10a980131b9cb2e7a0e
 SERPER_API_KEY = "c70f35baf4aaebbe2cc75470d0d14eac4b5595e7"
 TAVILY_API_KEY = "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"
 
-st.set_page_config(page_title="AI
+st.set_page_config(page_title="Zabi AI", page_icon="https://ui-avatars.com/api/?name=Zabi&background=000000&color=ffffff&bold=true")
+
 
 with st.sidebar:
     st.markdown("### Settings")
